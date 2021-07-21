@@ -1,0 +1,158 @@
+h2
+{
+	position: absolute; 
+	left: 113px;
+	top: 70px ;
+	font-size: 1.2em;
+
+}
+h1
+{
+	font-style: italic;
+	position: absolute;
+	left: 120px;
+	top: 30px;
+	color: red;
+}
+.amel
+{
+	position: absolute;
+	right: 520px;
+	top:50px;
+	color: red;
+	font-size:1.4em; 
+}
+.nadhem
+{
+	position: absolute;
+	right: 420px;
+	top: 50px;
+	font-size: 1.4em;
+}
+.hechmi
+{
+	position: absolute;
+	right: 350px;
+	top: 50px;
+	font-size: 1.4em;
+}
+.saida
+{
+	position: absolute;
+	right: 220px;
+	top: 50px;
+	font-size: 1.4em;
+
+}
+header
+{
+	border: 2px red solid;
+}
+.meriem
+{
+	margin-top: 9px;
+	margin-left: 0px;
+}
+
+a:hover
+{
+	color:white;
+}
+a:visited
+{
+	color:white;
+}
+body
+{
+	background-image: url("images/mine.jpg");
+}
+.xy
+{
+	border-radius: : 1px red solid;
+	width : 100px;
+	height :25px;
+	background-color: red;
+	color: white;
+	position: absolute;
+	right:437px;
+	top: 350px;
+	text-decoration: underline;
+}
+.nn
+{
+	border-radius: 1px black solid;
+	color: white;
+	background: black;
+	height :25px;
+	width:990px;
+	position: absolute;
+	right:538px;
+	top: 350px;
+	opacity: 0.8;
+}
+.quatre
+{
+	width: 73%;
+}
+
+.rouge 
+{
+	
+	text-align: justify ;
+	border: 1px red solid ;
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	top: 300px;
+	right: 50px;
+	padding-top: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	
+
+}
+
+.bleu
+{
+	position: absolute;
+	top: 500px;
+	right: 120px;
+}
+.red
+{
+	position: absolute;
+	top: 310px;
+	right: 120px;
+}
+nav
+{
+	position: absolute;
+	top: 700px;
+	right: 100px;
+}
+.am
+{
+	font-size: 1.2em;
+	color: red;
+	font-weight: bold;
+}
+.ch
+{
+	font-size: 1.2em;
+	color: red;
+	right: 100px;
+	font-weight: bold;
+	position: absolute;
+	right:1000px;
+	top: 747px;
+
+}
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+ td , th
+{
+    border: 1px solid black;
+}
